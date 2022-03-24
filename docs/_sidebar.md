@@ -46,5 +46,8 @@
 
 ______________________________________
 
-This website is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/). It was [created](http://www.clagnut.com/blog/1600/) and is maintained by [Richard Rutter](http://www.clagnut.com/). Please feel free to contribute by [forking it on GitHub](https://github.com/clagnut/webtypography).
+
+*This website is licensed under a [Creative Commons Attribution-NonCommercial 4.0 International License](http://creativecommons.org/licenses/by-nc/4.0/).*
+*It was [created](http://www.clagnut.com/blog/1600/) and is maintained by [Richard Rutter](http://www.clagnut.com/).*
+*Please feel free to contribute by [forking it on GitHub](https://github.com/clagnut/webtypography).*
 
