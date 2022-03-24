@@ -14,22 +14,22 @@
   - [2.1.10](chapter-2/2.1.10.md "")
 
 - 2.2 Mouvement vertical
-  - [2.2.1](chapter-2/2.1.1.md "Définir l'espacement des mots en fonction de la taille et de la forme naturelle des lettres de la police")
-  - [2.2.2](chapter-2/2.1.2.md "")
-  - [2.2.3](chapter-2/2.1.3.md "")
+  - [2.2.1](chapter-2/2.2.1.md "Définir l'espacement des mots en fonction de la taille et de la forme naturelle des lettres de la police")
+  - [2.2.2](chapter-2/2.2.2.md "")
+  - [2.2.3](chapter-2/2.2.3.md "")
 
 - 2.3 Blocs et paragraphes
-  - [2.3.1](chapter-2/2.1.1.md "Définir l'espacement des mots en fonction de la taille et de la forme naturelle des lettres de la police")
-  - [2.3.2](chapter-2/2.1.2.md "")
-  - [2.3.3](chapter-2/2.1.3.md "")
-  - [2.3.4](chapter-2/2.1.4.md "")
+  - [2.3.1](chapter-2/2.3.1.md "Définir l'espacement des mots en fonction de la taille et de la forme naturelle des lettres de la police")
+  - [2.3.2](chapter-2/2.3.2.md "")
+  - [2.3.3](chapter-2/2.3.3.md "")
+  - [2.3.4](chapter-2/2.3.4.md "")
 
 - 2.4 Étiquette des césures et de la pagination
-  - [2.4.1](chapter-2/2.1.1.md "Définir l'espacement des mots en fonction de la taille et de la forme naturelle des lettres de la police")
-  - [2.4.3](chapter-2/2.1.3.md "")
-  - [2.4.5](chapter-2/2.1.5.md "")
-  - [2.4.6](chapter-2/2.1.6.md "")
-  - [2.4.8](chapter-2/2.1.8.md "")
+  - [2.4.1](chapter-2/2.4.1.md "Définir l'espacement des mots en fonction de la taille et de la forme naturelle des lettres de la police")
+  - [2.4.3](chapter-2/2.4.3.md "")
+  - [2.4.5](chapter-2/2.4.5.md "")
+  - [2.4.6](chapter-2/2.4.6.md "")
+  - [2.4.8](chapter-2/2.4.8.md "")
 
   
 ## 3 Harmonie et contrepoint
